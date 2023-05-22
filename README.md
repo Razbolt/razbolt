@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erdem Arslan</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h3 align="center"</h3>
 
 - 🌱 I’m currently learning **Machine Learning specialization by Andrew Ng**
 
